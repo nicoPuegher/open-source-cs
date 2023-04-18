@@ -2,11 +2,14 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
+:books: Studying <br>
+:white_check_mark: Completed
+
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[:books: Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 
 ## Programming
 
@@ -26,7 +29,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[:books: Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [:white_check_mark: pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
@@ -65,5 +68,5 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
-[The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
+[:white_check_mark: Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
+[:books: The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
