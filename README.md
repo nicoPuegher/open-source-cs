@@ -1,6 +1,6 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+This is a curated list of free courses from reputable universities like Harvard, Stanford, MIT and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 :books: Studying <br>
 :white_check_mark: Completed
@@ -29,10 +29,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [:books: pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [:white_check_mark: pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [:books: pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [:white_check_mark: pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
 [Intro to Statistics ](https://imp.i115008.net/intro-to-statistics) | Udacity | 8 weeks | 5-7 hours/week | self-paced | none
 
